@@ -1,24 +1,199 @@
-# 💫 About Me:
-Hello! I'm a Computer Science Engineering student at Sikkim Manipal Institute of Technology (SMIT), specializing in Artificial Intelligence and Machine Learning. I am passionate about building technology that bridges the gap between complex algorithms and real-world utility.<br><br>My work ranges from optimizing low-level data structures in C++ to developing AI-driven health and commerce platforms. I thrive in hackathon environments and enjoy solving problems that have a direct social impact.<br><br>🚀 Current Projects<br>NirogX / Vita Health AI: Developing an AI-powered health analysis application to provide intelligent wellness insights.<br><br>KalaSetu: Building a digital marketplace to empower Indian artisans (Smart India Hackathon project).<br><br>The Campus Marketplace: A localized OLX-style platform tailored for the SMIT student community.<br><br>EduShare: A Flask-based resource-sharing web application.<br><br>🛠️ Technical Toolkit<br>Languages: C, C++, Python, SQL.<br><br>AI/ML & Math: Linear Algebra, Digital Signal Processing (DSP), Statistical Distributions, Information Retrieval.<br><br>Backend & Databases: Flask, SQLite, RDBMS (MySQL/PostgreSQL).<br><br>Tools: Ollama (Local AI), Git/GitHub, Algorithm Analysis & Benchmarking.<br><br>📊 Research & Interests<br>Algorithms: Deep interest in searching/sorting efficiency and graph theory.<br><br>Signal Processing: Exploring Fourier Transforms (FFT/DTFT) and their applications in AI.<br><br>Local AI: Experimenting with local LLM deployment and autonomous agents.<br><br>📫 Let's Connect<br>Location: Sikkim (SMIT) / Bihar.<br><br>Currently Learning: Advanced Generative AI frameworks and scalable system design.
 
+<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TnG4wz5V) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-aa27321b1) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkumarchoudhary78640@gmail.com)
+<h3 align="center">AI/ML Enthusiast | Software Engineer | CSE Student</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubh6206&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubh6206&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh6206&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/shubh6206">
+    <img src="https://img.shields.io/badge/GitHub-shubh6206-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-aa27321b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:shubhamkumarchoudhary78640@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubh6206&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shubhamkumarchoudhary78640@gmail.com) 
+## 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Computer Science and Engineering student at **Sikkim Manipal Institute of Technology (SMIT)**, interested in building intelligent software systems that solve practical problems.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering**. I enjoy moving beyond theoretical concepts to build applications, experiment with emerging technologies, and understand the engineering behind scalable and reliable systems.
+
+- 🎓 B.Tech in Computer Science & Engineering at SMIT.
+- 🤖 Exploring AI, Machine Learning and Generative AI.
+- 💻 Working with Python, C, C++ and backend technologies.
+- ☁️ Exploring AWS, cloud infrastructure and serverless architectures.
+- 🧠 Interested in DSA, algorithms, operating systems and system design.
+- 🌱 Preparing for **Google Summer of Code (GSoC) 2027**.
+- 🚀 Interested in open-source development and collaborative engineering.
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects and engineering concepts I've been working on.
+
+### ✈️ AeroRoute
+**Intelligent Route Planning & Cloud Engineering**
+
+Exploring an intelligent route-planning platform with a focus on practical route optimization, application architecture and cloud-based engineering.
+
+**Focus Areas:** AWS · Backend Development · System Architecture
+
+### 🏥 CarePath
+**AI-Assisted Post-Discharge Healthcare Companion**
+
+A healthcare application concept designed to simplify post-hospitalization recovery for patients and caregivers.
+
+- Extracts relevant information from hospital discharge documents.
+- Organizes recovery instructions into structured timelines.
+- Provides medication schedules and follow-up reminders.
+- Uses AWS services for document processing and backend infrastructure.
+- Emphasizes evidence-based outputs and human oversight.
+
+**Technologies:** Python · AWS Bedrock · Amazon Textract · S3 · DynamoDB · SNS
+
+### 🛡️ SAJAK
+**AI-Based Personnel Stress & Welfare Monitoring**
+
+An explainable AI-assisted decision-support system designed to identify potential personnel welfare concerns using authorized organizational and workload indicators.
+
+- Analyzes workload, deployment and organizational trends.
+- Identifies deviations from individual baselines.
+- Provides explainable insights for authorized human review.
+- Emphasizes responsible AI, privacy and human oversight.
+
+**Focus Areas:** AI/ML · Predictive Analytics · Explainable AI · Responsible AI
+
+### 🧬 NirogX
+**AI-Powered Accessible Healthcare**
+
+An early-stage healthcare technology concept focused on making preliminary health information and AI-assisted triage more accessible, especially for underserved and low-connectivity communities.
+
+**Focus Areas:** Generative AI · Healthcare Technology · Local LLMs · Accessibility
+
+### 🎨 KalaSetu
+**Digital Marketplace for Indian Artisans**
+
+A digital marketplace concept aimed at connecting traditional Indian artisans with broader digital audiences.
+
+The project explores how technology can support artisan visibility, product discovery and access to digital commerce.
+
+**Focus Areas:** E-commerce · Web Development · Social Impact
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,dart" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local%20AI-Ollama-black?style=flat&logo=ollama&logoColor=white" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mysql,sqlite,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+</p>
+
+### Frontend & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,flutter" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,gitlab,canva" />
+</p>
+
+---
+
+## 🧠 Technical Interests
+
+| Area | Topics |
+|---|---|
+| Artificial Intelligence | Machine Learning, Deep Learning, Generative AI |
+| Algorithms | Data Structures, Graph Theory, Complexity Analysis |
+| Systems | C/C++, Operating Systems, Memory Management |
+| Backend Engineering | REST APIs, Databases, System Design |
+| Cloud Computing | AWS, Serverless Architecture, Distributed Systems |
+| Computer Science | Signal Processing, Computer Vision, Information Retrieval |
+| Open Source | GSoC, Community Collaboration, Software Development |
+
+---
+
+## 🌱 Open Source Journey
+
+I'm actively preparing for **Google Summer of Code 2027** and looking to become a consistent open-source contributor.
+
+Areas I'm particularly interested in:
+
+- Python-based open-source projects.
+- Machine Learning and scientific computing.
+- Computer Vision and image processing.
+- Systems programming and C/C++.
+- Backend development and API engineering.
+
+My goal is to understand real-world codebases, contribute meaningful improvements, learn from experienced developers and become a better software engineer.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh6206&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=shubh6206&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh6206&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from open-source communities, collaborating on interesting projects and exploring new technologies.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-kumar-aa27321b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhamkumarchoudhary78640@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/TnG4wz5V">
+    <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Experimenting. Learning. Contributing.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
